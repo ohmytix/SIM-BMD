@@ -1,37 +1,5 @@
 <div class="flex-grow-1 p-3" style="background: linear-gradient(180deg, #00bcd4 0%, #00acc1 100%);">
     <!-- Card Section with Title and Stats -->
-    <div class="bg-white rounded p-4 shadow-sm mb-3">
-        <!-- Title -->
-        <h5 class="mb-4" style="font-size: 20px; font-weight: 600; color: #000;">Mutasi Persediaan {{ $namaDaerah }}</h5>
-
-        <!-- Stats Cards -->
-        <div class="row g-3">
-            <div class="col-lg-3 col-md-6">
-                <div class="rounded p-3" style="background: linear-gradient(135deg, #80deea 0%, #4dd0e1 100%);">
-                    <div style="font-size: 14px; color: #555; margin-bottom: 8px;">Saldo Awal</div>
-                    <div style="font-size: 18px; font-weight: 700; color: #000;">Rp 7.632.083</div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="rounded p-3" style="background: linear-gradient(135deg, #f8bbd0 0%, #f48fb1 100%);">
-                    <div style="font-size: 14px; color: #555; margin-bottom: 8px;">Total Penambahan</div>
-                    <div style="font-size: 18px; font-weight: 700; color: #000;">Rp 7.632.083</div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="rounded p-3" style="background: linear-gradient(135deg, #fff59d 0%, #ffee58 100%);">
-                    <div style="font-size: 14px; color: #555; margin-bottom: 8px;">Total Pengurangan</div>
-                    <div style="font-size: 18px; font-weight: 700; color: #000;">Rp 7.632.083</div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="rounded p-3" style="background: linear-gradient(135deg, #ce93d8 0%, #ba68c8 100%);">
-                    <div style="font-size: 14px; color: #555; margin-bottom: 8px;">Saldo Akhir</div>
-                    <div style="font-size: 18px; font-weight: 700; color: #000;">Rp 7.632.083</div>
-                </div>
-            </div>
-        </div>  
-    </div>
 
 
     {{-- TABLE --}}
