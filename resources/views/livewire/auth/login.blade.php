@@ -3,7 +3,7 @@
 
         <!-- Logo / Judul -->
         <div class="text-center mb-4">
-            <div class="fw-bold" style="font-size: 20px;">PMD</div>
+            <div class="fw-bold" style="font-size: 20px;">SIM-BMD</div>
             <div class="login-subtitle">Sistem Pengelolaan Data</div>
         </div>
 
